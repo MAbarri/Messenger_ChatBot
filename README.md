@@ -45,3 +45,12 @@ conversation/bo/persistance.js
 ```
 
 It's here where you find DB connection and Models Schemas and operacions
+
+## Preview
+
+![Alt text](/preview_img/17121716_10211679182912860_448044199_o.png?raw=true "Getting started")
+![Alt text](/preview_img/17142489_10211679183672879_1506205814_o.png?raw=true "Language select")
+![Alt text](/preview_img/17176003_10211679183712880_591318766_o.png?raw=true "Team Presentation")
+![Alt text](/preview_img/17176239_10211679182952861_1868410651_o.png?raw=true "Personal Presentation")
+![Alt text](/preview_img/17200053_10211679183312870_1821094854_o.png?raw=true "Self Presentation")
+![Alt text](/preview_img/17176245_10211679183272869_416980461_o.png?raw=true "Menu for Bot")
