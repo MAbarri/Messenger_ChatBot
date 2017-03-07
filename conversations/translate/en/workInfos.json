@@ -1,0 +1,204 @@
+[{
+    "key": "how much albums you",
+    "content": "I made 4 albums and a lot of singles. ",
+    "isComplex": true,
+    "template": [{
+        "title": "American idiot",
+        "subtitle": "Green Day",
+        "image_url": "http://www.billboard.com/files/styles/900_wide/public/media/Green-Day-American-Idiot-album-covers-billboard-1000x1000.jpg",
+        "buttons": [{
+            "type": "web_url",
+            "title": "ITunes",
+            "url": "https://geo.itunes.apple.com/us/album/american-idiot-deluxe-version/id207192731?mt=1&app=music"
+        }]
+    }, {
+        "title": "The dark side of the moon",
+        "subtitle": "Pink Floyd",
+        "image_url": "https://le0pard13.files.wordpress.com/2013/08/pink-floyd-dark-side-of-the-moon-album-cover.jpg",
+        "buttons": [{
+            "type": "web_url",
+            "title": "ITunes",
+            "url": "https://geo.itunes.apple.com/us/album/the-dark-side-of-the-moon/id1065973699?mt=1&app=music"
+        }]
+    }, {
+        "title": "Hope",
+        "subtitle": "I don't know who",
+        "image_url": "http://androidjones.com/wp-content/uploads/2012/05/HOPE-1024x1024.jpg",
+        "buttons": [{
+            "type": "web_url",
+            "title": "ITunes",
+            "url": "https://geo.itunes.apple.com/us/album/hope/id1123905405?mt=1&app=music"
+        }]
+    }, {
+        "title": "Appetite for destruction ",
+        "subtitle": "Guns'n'Roses",
+        "image_url": "https://www.athenaart.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/g/u/guns_n_roses_-_appetite_for_destruction.jpg",
+        "buttons": [{
+            "type": "web_url",
+            "title": "ITunes",
+            "url": "https://geo.itunes.apple.com/us/album/appetite-for-destruction/id113736?mt=1&app=music"
+        }]
+    }]
+}, {
+    "key": "your next concert",
+    "content": "I'm going to be part of the Mawazing Festival in Morocco"
+}, {
+    "key": "your next single",
+    "content": "I'll publish it the next april"
+}, {
+    "key": "your next album",
+    "content": "I'm still working on it"
+}, {
+    "key": "your songs",
+    "content": "These are some of them, I made a lot more of those.",
+    "isComplex": true,
+    "template": [{
+        "title": "Will.I.Am",
+        "subtitle": "Will Power",
+        "image_url": "http://www.music-bazaar.com/album-images/vol12/556/556665/2393592-big/Freshy-Single-cover.jpg",
+        "buttons": [{
+            "type": "web_url",
+            "title": "ITunes",
+            "url": "https://geo.itunes.apple.com/us/album/american-idiot-deluxe-version/id207192731?mt=1&app=music"
+        }]
+    }, {
+        "title": "Drake",
+        "subtitle": "Miss me",
+        "image_url": "http://loft965.files.wordpress.com/2010/06/drake-miss-me-official-single-cover.jpg",
+        "buttons": [{
+            "type": "web_url",
+            "title": "ITunes",
+            "url": "https://geo.itunes.apple.com/us/album/the-dark-side-of-the-moon/id1065973699?mt=1&app=music"
+        }]
+    }, {
+        "title": "J Peezy",
+        "subtitle": "Show me",
+        "image_url": "http://thumpingraphix.com/wp-content/uploads/2014/01/jpeezy-single-cover-proof.jpg",
+        "buttons": [{
+            "type": "web_url",
+            "title": "ITunes",
+            "url": "https://geo.itunes.apple.com/us/album/hope/id1123905405?mt=1&app=music"
+        }]
+    }, {
+        "title": "Iggy Azalea",
+        "subtitle": "Work",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/e/e3/Iggy_Azalea_-_Work,_single_cover.jpg",
+        "buttons": [{
+            "type": "web_url",
+            "title": "ITunes",
+            "url": "https://geo.itunes.apple.com/us/album/appetite-for-destruction/id113736?mt=1&app=music"
+        }]
+    }, {
+        "title": "More ...",
+        "subtitle": "Show more",
+        "image_url": "http://www.freeiconspng.com/uploads/circle-detail-more-icon-22.png",
+        "buttons": [{
+            "type": "web_url",
+            "title": "Show more",
+            "url": "https://geo.itunes.apple.com/us/album/appetite-for-destruction/id113736?mt=1&app=music"
+        }]
+    }]
+}, {
+    "key": "your works",
+    "content": "We built a lot of amazing things",
+    "isComplex": true,
+    "template": [{
+        "title": "Ushiku daibutsu",
+        "subtitle": "Japan",
+        "image_url": "https://factswonders.files.wordpress.com/2010/05/most-amazing-monuments-in-the-world-ushiku-daibutsu-japan-225x300.jpg",
+        "buttons": [{
+            "type": "web_url",
+            "title": "More",
+            "url": "https://geo.itunes.apple.com/us/album/american-idiot-deluxe-version/id207192731?mt=1&app=music"
+        }]
+    }, {
+        "title": "Bayhan",
+        "subtitle": "Afghanistan",
+        "image_url": "https://factswonders.files.wordpress.com/2010/05/most-amazing-monuments-in-the-world-budha-of-bayhan.jpg",
+        "buttons": [{
+            "type": "web_url",
+            "title": "More",
+            "url": "https://geo.itunes.apple.com/us/album/the-dark-side-of-the-moon/id1065973699?mt=1&app=music"
+        }]
+    }, {
+        "title": "Motherland",
+        "subtitle": "Ukraine",
+        "image_url": "https://factswonders.files.wordpress.com/2010/05/most-amazing-monuments-in-the-world-motherland-300x244.jpg",
+        "buttons": [{
+            "type": "web_url",
+            "title": "More",
+            "url": "https://geo.itunes.apple.com/us/album/hope/id1123905405?mt=1&app=music"
+        }]
+    }, {
+        "title": "Liberty Island",
+        "subtitle": "New York",
+        "image_url": "https://factswonders.files.wordpress.com/2010/05/most-amazing-monuments-in-the-world-liberty-monument.jpg?w=500",
+        "buttons": [{
+            "type": "web_url",
+            "title": "More",
+            "url": "https://geo.itunes.apple.com/us/album/appetite-for-destruction/id113736?mt=1&app=music"
+        }]
+    }, {
+        "title": "Guanyin",
+        "subtitle": "China",
+        "image_url": "https://factswonders.files.wordpress.com/2010/05/most-amazing-monuments-in-the-world-guanyin-225x300.jpg",
+        "buttons": [{
+            "type": "web_url",
+            "title": "Show more",
+            "url": "https://geo.itunes.apple.com/us/album/appetite-for-destruction/id113736?mt=1&app=music"
+        }]
+    }]
+}, {
+    "key": "your office",
+    "content": "The Office is where we live, so we take good care of it to make it the best place where you pass your working day.",
+    "isComplex": true,
+    "template": [{
+        "title": "Meetings room",
+        "subtitle": "1st floor",
+        "image_url": "http://www.shunvmall.com/data/out/171/47722504-office-wallpaper.jpg"
+    }, {
+        "title": "Open space",
+        "subtitle": "1st floor",
+        "image_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTN3-ztuDEezK3FGxcaFTgFJC4UdVLkJnHwpUdA5ZIj5wJwge5WCA"
+    }, {
+        "title": "CEO room",
+        "subtitle": "2nd floor",
+        "image_url": "http://www.download3dhouse.com/wp-content/uploads/2014/03/Simple-pendant-for-directors-office.jpg"
+    }, {
+        "title": "Dining room",
+        "subtitle": "2nd floor",
+        "image_url": "http://cdn.home-designing.com/wp-content/uploads/2012/11/10-White-dining-room.jpeg"
+    }]
+}, {
+    "key": "your services",
+    "content": "We provide a list of informatique & other Service that you can shoose in between",
+    "isComplex": true,
+    "template": [{
+        "title": "Developpement",
+        "subtitle": "Web and descktop",
+        "image_url": "http://www.optilog81.com/img/developpement-specifique-informatique-albi-zoom.jpg",
+        "buttons": [{
+            "type": "web_url",
+            "title": "Find out more",
+            "url": "http://www.developpement.com"
+        }]
+    }, {
+        "title": "Maintenance",
+        "subtitle": "Maintenance for your existing informatic plateforms",
+        "image_url": "http://www.infodit-system.eu/wp-content/uploads/2015/06/Fotolia_49945628_Subscription_Monthly_M.jpg",
+        "buttons": [{
+            "type": "web_url",
+            "title": "Find out more",
+            "url": "https://maintenance.com"
+        }]
+    }, {
+        "title": "Analysis and conception",
+        "subtitle": "Analysis for your systems and conception of solutions",
+        "image_url": "http://www.houstonisd.org/cms/lib2/TX01001591/Centricity/Domain/15303/infoanalysis.jpg",
+        "buttons": [{
+            "type": "web_url",
+            "title": "Find out more",
+            "url": "https://analysis.com"
+        }]
+    }]
+}]

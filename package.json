@@ -1,0 +1,23 @@
+{
+  "name": "abarri-fb-bot",
+  "version": "1.0.0",
+  "description": "A simple bot to be configured for each client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.5",
+    "body-parser": "^1.15.0",
+    "cleverbot.io": "^1.0.4",
+    "express": "^4.13.4",
+    "google-translate-api": "^2.2.2",
+    "mongoose": "^4.8.5",
+    "node-emoji": "^1.5.1",
+    "request": "^2.71.0",
+    "request-promise": "^4.1.1",
+    "underscore": "^1.8.3"
+  }
+}

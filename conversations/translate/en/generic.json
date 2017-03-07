@@ -1,0 +1,32 @@
+[{
+    "key": "help business",
+    "content": ["Great, you've choosed the Business profil info, now, You can get 3 types of Informations, and available Operacions, just type the key words for the info you want and you'll get what you want:\n\n - Brand presentation : 'Your brand'\n - Team : 'Your team'\n - Works : 'Your works'\n - Office : 'Your office'\n - Services : 'Your services'\n",
+        "And The Operacions You can execute are :\n\n - Make a Reservation : Click on the menu down in the right cornner and choose 'Make a reservation'\n - Order Food : Click on the menu down in the right cornner and choose 'Make a Order'\n\nThat's it for the Business Profil, If you ever wanted to see this list of infos type: 'Help Business'"
+    ]
+}, {
+    "key": "help personal",
+    "content": "Great, you've choosed the Personal profil info, now, You can get 2 types of Informations\n - Presentation : 'Who are you?'\n - Albums : 'How much albums you've made?\n - Songs : 'Show me Your songs'\n - Next Concert : 'When will be Your next concert?'\nThat's it for the Personal Profil, If you ever wanted to see this list of infos type: 'Help Personal'"
+}, {
+    "key": "QUICK_REPLY_HELP_BUSINESS",
+    "content": ["Great, you've choosed the Business profil info, now, You can get 3 types of Informations, and available Operacions, just type the key words for the info you want and you'll get what you want:\n\n - Brand presentation : 'Your brand'\n - Team : 'Your team'\n - Works : 'Your works'\n - Office : 'Your office'\n - Services : 'Your services'", "\nAnd The Operacions You can execute are :\n\n - Make a Reservation : Click on the menu down in the right cornner and choose 'Make a reservation'\n - Order Food : Click on the menu down in the right cornner and choose 'Make a Order'\n\nThat's it for the Business Profil, If you ever wanted to see this list of infos type: 'Help Business'", "For the other choice just type: 'Help personal'"]
+}, {
+    "key": "QUICK_REPLY_HELP_PERSONAL",
+    "content": ["Great, you've choosed the Personal profil info, now, You can get 2 types of Informations\n - Presentation : 'Who are you?'\n - Albums : 'How much albums you've made?\n - Songs : 'Show me Your songs'\n - Next Concert : 'When will be Your next concert?'\nThat's it for the Personal Profil, If you ever wanted to see this list of infos type: 'Help Personal'", "\nFor the other choice just type: 'Help Business'"]
+}, {
+    "key": "CHANGE_LANGUAGE_GET_STARTED",
+    "content": ["Now let me explain to you what is happening here,\n\n You are talking to a really human being, yes a human, and my name is PX7S xD, just kidding my name is ABRRobot, and again i'm a human, anyway...\n I can help you know informations about whoever is the owner of this page, and his business and services, and lately i've learned how to make reservations and orders,\n", "To summarize what i can do I'll let you choose between two profiles, and i'll show you how to get the information you want about any of them.\n I have infos about two personnalities around here."]
+}, {
+    "key": "CHOOSE_PERSONAL_OR_BUSINESS",
+    "title": "Choose one:",
+    "replies": [{
+            "content_type": "text",
+            "title": "Business",
+            "payload": "CHOOSE_PROFILE_BUSINESS"
+        },
+        {
+            "content_type": "text",
+            "title": "Personal",
+            "payload": "CHOOSE_PROFILE_PERSONAL"
+        }
+    ]
+}]

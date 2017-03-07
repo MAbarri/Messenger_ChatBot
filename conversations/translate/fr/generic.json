@@ -1,0 +1,8 @@
+[{
+    "key":"help business",
+    "content": ["Great, you've choosed the Business profil info, now, You can get 3 types of Informations, and available Operacions, just type the key words for the info you want and you'll get what you want:\n\n - Brand presentation : 'Your brand'\n - Team : 'Your team'\n - Works : 'Your works'\n - Office : 'Your office'\n - Services : 'Your services'\n",
+    "And The Operacions You can execute are :\n\n - Make a Reservation : Click on the menu down in the right cornner and choose 'Make a reservation'\n - Order Food : Click on the menu down in the right cornner and choose 'Make a Order'\n\nThat's it for the Business Profil, If you ever wanted to see this list of infos type: 'Help Business'"]
+},{
+    "key":"help personal",
+    "content": "Great, you've choosed the Personal profil info, now, You can get 2 types of Informations\n - Presentation : 'Who are you?'\n - Albums : 'How much albums you've made?\n - Songs : 'Show me Your songs'\n - Next Concert : 'When will be Your next concert?'\nThat's it for the Personal Profil, If you ever wanted to see this list of infos type: 'Help Personal'"
+}]

@@ -1,0 +1,27 @@
+{ "inputs" : [{
+    "content": "how are things"
+}, {
+    "content": "how are ya"
+}, {
+    "content": "how ya doin'"
+}, {
+    "content": "how's it goin'"
+}, {
+    "content": "how's it going"
+}, {
+    "content": "how's life"
+}],
+  "outputs": [{
+      "content": "Great, how are things"
+  }, {
+      "content": "I'm cool, how are ya"
+  }, {
+      "content": "Amazing, how ya doin'"
+  }, {
+      "content": "soso, how's it goin'"
+  }, {
+      "content": "as always, how's it going"
+  }, {
+      "content": "perfect, how's life"
+  }]
+}
